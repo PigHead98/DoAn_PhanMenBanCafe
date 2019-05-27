@@ -1,0 +1,13 @@
+E:\C#\DoAn_LTWin\bin\Debug\DoAn_LTWin.exe.config
+E:\C#\DoAn_LTWin\bin\Debug\DoAn_LTWin.exe
+E:\C#\DoAn_LTWin\bin\Debug\DoAn_LTWin.pdb
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.csprojResolveAssemblyReference.cache
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.Login.resources
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.Properties.Resources.resources
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.csproj.GenerateResource.Cache
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.exe
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.pdb
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.TableManager.resources
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.AccountProfile.resources
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.Admin.resources
+E:\C#\DoAn_LTWin\obj\Debug\DoAn_LTWin.FromWait.resources
